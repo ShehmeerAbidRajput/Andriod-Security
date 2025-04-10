@@ -19,3 +19,30 @@ This repository contains a Python script that searches for a specified string in
    ```bash
    git clone https://github.com/ShehmeerAbidRajput/Andriod-Security.git
    cd HelperFunctions
+
+## How to Run the Script
+
+Follow these steps to run the `search_dlls.py` script:
+
+1. **Open a Terminal or Command Prompt:**
+
+   - **Windows:**  
+     Open Command Prompt by searching for "cmd" in the Start Menu.
+     
+   - **Linux/macOS:**  
+     Open your Terminal application.
+
+2. **Navigate to the HelperFunctions Directory:**
+
+   Change to the directory where the script is located. For example:
+
+   ```bash
+   cd path/to/Andriod-Security/HelperFunctions
+
+3. **Run the script**
+
+   - **Windows:**  
+     python search_dlls.py
+     
+   - **Linux/macOS:**  
+     python3 search_dlls.py
