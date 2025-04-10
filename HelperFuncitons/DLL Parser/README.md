@@ -41,8 +41,10 @@ Follow these steps to run the `search_dlls.py` script:
 
 3. **Run the script**
 
-   - **Windows:**  
+   - **Windows:**
+    ```bash  
      python search_dlls.py
      
    - **Linux/macOS:**  
+    ```bash
      python3 search_dlls.py
